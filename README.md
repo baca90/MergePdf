@@ -10,8 +10,8 @@ Requirements
 * Java version: 1.8 or above
 	
 ## Usage
-PDF files should be named in convention "1.pdf", "2.pdf" etc.
-Download a JAR file from here and from directory where it is run a command:
+PDF files should be named in convention "1.pdf", "2.pdf" etc.  
+Download a JAR file from [here](https://github.com/baca90/MergePdf/blob/master/mergePdf-1.0.jar) and from directory where it is, run a command:
 
 ```
 java -jar mergePdf-1.0.jar InputPath OutputPath+FileName
