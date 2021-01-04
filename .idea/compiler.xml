@@ -9,5 +9,8 @@
         <module name="mergePdf" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mergePdf" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
